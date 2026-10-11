@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux-x86-x64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG"
+            ],
+            "compilerPath": "gcc.exe",
+            "cStandard": "c17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
